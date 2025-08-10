@@ -85,7 +85,7 @@ Model terbaik adalah **Logistic Regression**, karena:
 
 ---
 
-## 📦 Cara Menjalankan (Optional)
+## 📦 Cara Menjalankan
 
 ```bash
 # Clone repo
