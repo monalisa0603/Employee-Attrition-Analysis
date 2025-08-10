@@ -8,7 +8,8 @@ Tujuan dari project adalah:
 
 ## 📂 Dataset
 
-Dataset yang digunakan adalah dataset HR Analytics Employee Attrition
+Dataset yang digunakan adalah dataset HR Analytics Employee Attrition :
+🔗 [Download Dataset di Kaggle] (https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors?select=HR_Analytics.csv.csv)
 
 - Jumlah data: 1470 rows dan 35 columns
 - Target: `Attrition` (Yes / No)
